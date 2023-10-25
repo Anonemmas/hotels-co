@@ -1,0 +1,1195 @@
+{
+  "rooms": [
+    {
+      "createdAt": "2023-03-10T14:35:01.438Z",
+      "name": "Villa",
+      "rating": 5,
+      "photos": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-858313563150392687/original/da701b0c-154a-44e8-ab74-2d54cc52294b.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/358a9e56-7e6c-4886-966c-3ae1af37c326.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-858313563150392687/original/f47850e4-6896-4f8a-b1ac-0351c55269bd.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-858313563150392687/original/cc378be4-3381-42d3-b6b5-5542378785c7.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-858313563150392687/original/05793502-0a2c-4db3-a338-4875cfc01195.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-858313563150392687/original/63998e21-ba3d-4abc-a892-d1cc6e760278.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/10c54b1b-ac16-403c-ab7d-2c9346050662.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-858313563150392687/original/6b258a5e-33b4-4100-b02c-e9524ad9ab5e.jpeg?im_w=1200"
+      ],
+      "price": "2000.00",
+      "reviewCount": 30,
+      "beds": 5,
+      "bathrooms": 3,
+      "description": "This spacious villa offers luxurious comfort and breathtaking views.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 4:00 PM",
+            "Checkout before 10:00 AM",
+            "3 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Security camera/recording device"]
+        },
+        {
+          "Cancellation": [
+            "This reservation is non-refundable",
+            "Review the hotel's cancellation policy which applies even if you cancel for illness or disruptions"
+          ]
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "createdAt": "2023-03-11T10:15:00.123Z",
+      "name": "Oceanfront Suite",
+      "rating": 4.5,
+      "photos": [
+        "https://a0.muscache.com/im/pictures/d1aa6415-b611-4c67-b3f4-86a208bbd983.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/e096d002-3895-4266-84a0-4499958956f6.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e8fda9b8-4300-44a8-81ed-1ae0f8ebc0a4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/60ac633d-4c6f-4187-ad35-0c8bfe7708bf.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/41a1046f-b9b3-4482-822a-49486df5fe46.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ce406681-e254-4fe0-8748-08b38ec45c03.jpg?im_w=1200"
+      ],
+      "price": "1500.00",
+      "reviewCount": 25,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Enjoy stunning ocean views and direct beach access in this spacious suite.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 11:00 AM",
+            "2 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "2"
+    },
+    {
+      "createdAt": "2023-03-12T09:45:00.765Z",
+      "name": "Mountain View Cabin",
+      "rating": 4.7,
+      "photos": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-779605373861602549/original/762376e5-4d8d-429f-9424-2ddcab913b55.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-779605373861602549/original/41c44822-a25e-4abb-81df-800fc7186954.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-779605373861602549/original/5d7af1bc-1c26-4caf-8a35-08b4c2799117.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-779605373861602549/original/361f1a6b-60e8-49f5-9a51-5bdfaa97ffd5.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-779605373861602549/original/0d5355cc-a17c-4502-bfae-5e24c2722295.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-779605373861602549/original/d8491d56-b986-4d2e-87d2-8be0987c23dd.jpeg?im_w=1200"
+      ],
+      "price": "1800.00",
+      "reviewCount": 35,
+      "beds": 2,
+      "bathrooms": 1,
+      "description": "Escape to the serene mountains in this cozy cabin with scenic views.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 12:00 PM",
+            "4 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Carbon monoxide detector", "First aid kit"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 14 days before check-in",
+            "50% refund for cancellations made within 14 days"
+          ]
+        }
+      ],
+      "id": "3"
+    },
+    {
+      "createdAt": "2023-03-13T15:20:00.890Z",
+      "name": "Luxury Penthouse",
+      "rating": 4.8,
+      "photos": [
+        "https://images.unsplash.com/photo-1565623833408-d77e39b88af6?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "2500.00",
+      "reviewCount": 40,
+      "beds": 4,
+      "bathrooms": 3,
+      "description": "Experience opulent living in this luxurious penthouse with city skyline views.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 10:00 AM",
+            "6 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Security personnel on-site", "Safe box"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "No refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "4"
+    },
+
+    {
+      "createdAt": "2023-03-14T11:10:00.932Z",
+      "name": "Beachfront Bungalow",
+      "rating": 4.6,
+      "photos": [
+        "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "1700.00",
+      "reviewCount": 30,
+      "beds": 2,
+      "bathrooms": 1,
+      "description": "Relax on the beach in this charming bungalow with direct beach access.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "2 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "5"
+    },
+    {
+      "createdAt": "2023-03-15T14:55:00.714Z",
+      "name": "Ski Chalet",
+      "rating": 4.9,
+      "photos": [
+        "https://images.unsplash.com/photo-1516464488897-e67174edf7e7?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "2200.00",
+      "reviewCount": 45,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Hit the slopes and come back to a cozy chalet with mountain views.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 4:00 PM",
+            "Checkout before 10:00 AM",
+            "4 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Carbon monoxide detector", "First aid kit"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 14 days before check-in",
+            "50% refund for cancellations made within 14 days"
+          ]
+        }
+      ],
+      "id": "6"
+    },
+
+    {
+      "createdAt": "2023-03-16T09:30:00.621Z",
+      "name": "Rustic Cottage",
+      "rating": 4.5,
+      "photos": [
+        "https://images.unsplash.com/photo-1595521624992-48a59aef95e3?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "1600.00",
+      "reviewCount": 28,
+      "beds": 2,
+      "bathrooms": 1,
+      "description": "Experience the charm of a rustic cottage in the countryside.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 12:00 PM",
+            "3 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Fire extinguisher", "Emergency exit"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "7"
+    },
+    {
+      "createdAt": "2023-03-17T10:45:00.834Z",
+      "name": "Historic Mansion",
+      "rating": 4.8,
+      "photos": [
+        "https://images.unsplash.com/photo-1622487190672-99e77cb8a9dd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "2800.00",
+      "reviewCount": 50,
+      "beds": 6,
+      "bathrooms": 4,
+      "description": "Step back in time in this beautifully preserved historic mansion.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 4:00 PM",
+            "Checkout before 10:00 AM",
+            "8 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Security personnel on-site", "Safe box"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "No refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "8"
+    },
+    {
+      "createdAt": "2023-03-18T13:20:00.983Z",
+      "name": "Seaside Condo",
+      "rating": 4.6,
+      "photos": [
+        "https://images.unsplash.com/photo-1682194564524-523506ab0f99?auto=format&fit=crop&q=80&w=2069&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "1900.00",
+      "reviewCount": 32,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Enjoy beachfront living in this modern seaside condo with ocean views.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 11:00 AM",
+            "4 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "9"
+    },
+    {
+      "createdAt": "2023-03-19T14:10:00.720Z",
+      "name": "Urban Loft",
+      "rating": 4.7,
+      "photos": [
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&q=80&w=2075&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "2200.00",
+      "reviewCount": 40,
+      "beds": 4,
+      "bathrooms": 2,
+      "description": "Experience city living in style in this chic urban loft with city skyline views.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 4:00 PM",
+            "Checkout before 10:00 AM",
+            "6 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Security personnel on-site", "Safe box"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "No refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "10"
+    },
+    {
+      "createdAt": "2023-03-20T10:00:00.551Z",
+      "name": "Riverside Cabin",
+      "rating": 4.6,
+      "photos": [
+        "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "1600.00",
+      "reviewCount": 30,
+      "beds": 2,
+      "bathrooms": 1,
+      "description": "Embrace nature in this charming riverside cabin with fishing and hiking opportunities.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "2 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "11"
+    },
+    {
+      "createdAt": "2023-03-21T12:30:00.670Z",
+      "name": "Safari Tent",
+      "rating": 4.9,
+      "photos": [
+        "https://images.unsplash.com/photo-1526491109672-74740652b963?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "2000.00",
+      "reviewCount": 35,
+      "beds": 1,
+      "bathrooms": 1,
+      "description": "Experience the thrill of the wild in a luxurious safari tent amidst wildlife.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 11:00 AM",
+            "2 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": [
+            "Wildlife viewing at a safe distance",
+            "Security personnel on-site"
+          ]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 14 days before check-in",
+            "50% refund for cancellations made within 14 days"
+          ]
+        }
+      ],
+      "id": "12"
+    },
+    {
+      "createdAt": "2023-03-22T11:55:00.412Z",
+      "name": "Treehouse Retreat",
+      "rating": 4.8,
+      "photos": [
+        "https://images.unsplash.com/photo-1695436157373-33ed23b9e9d8?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "2100.00",
+      "reviewCount": 38,
+      "beds": 1,
+      "bathrooms": 1,
+      "description": "Stay among the treetops in this enchanting treehouse retreat with stunning forest views.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "2 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Fire extinguisher", "Emergency exit"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "13"
+    },
+    {
+      "createdAt": "2023-03-23T14:20:00.593Z",
+      "name": "Historic Townhouse",
+      "rating": 4.7,
+      "photos": [
+        "https://images.unsplash.com/photo-1623695505516-00f5fcc3974c?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "2600.00",
+      "reviewCount": 45,
+      "beds": 5,
+      "bathrooms": 3,
+      "description": "Experience the elegance of a historic townhouse in the heart of the city.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 4:00 PM",
+            "Checkout before 10:00 AM",
+            "6 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Security personnel on-site", "Safe box"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "No refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "14"
+    },
+    {
+      "createdAt": "2023-03-24T09:40:00.751Z",
+      "name": "Lakefront Cabin",
+      "rating": 4.6,
+      "photos": [
+        "https://images.unsplash.com/photo-1682202206158-73f500b2a5fa?auto=format&fit=crop&q=80&w=2029&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "1750.00",
+      "reviewCount": 32,
+      "beds": 2,
+      "bathrooms": 1,
+      "description": "Enjoy peaceful lakefront living in this cozy cabin with beautiful sunset views.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "3 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "15"
+    },
+    {
+      "createdAt": "2023-03-25T10:50:00.891Z",
+      "name": "Ski Resort Chalet",
+      "rating": 4.9,
+      "photos": [
+        "https://images.unsplash.com/photo-1452626212852-811d58933cae?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "2300.00",
+      "reviewCount": 42,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Experience a winter wonderland in this ski resort chalet with easy access to the slopes.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 4:00 PM",
+            "Checkout before 10:00 AM",
+            "4 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Carbon monoxide detector", "First aid kit"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 14 days before check-in",
+            "50% refund for cancellations made within 14 days"
+          ]
+        }
+      ],
+      "id": "16"
+    },
+    {
+      "createdAt": "2023-03-26T12:30:00.624Z",
+      "name": "Desert Oasis Villa",
+      "rating": 4.7,
+      "photos": [
+        "https://images.unsplash.com/photo-1604907610632-517dc8c0a0a4?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "1900.00",
+      "reviewCount": 36,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Escape to a luxurious oasis in the desert with a private pool and stunning sunset views.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 11:00 AM",
+            "6 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Security personnel on-site", "Safe box"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "No refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "17"
+    },
+    {
+      "createdAt": "2023-03-27T11:15:00.711Z",
+      "name": "Rural Farmhouse",
+      "rating": 4.6,
+      "photos": [
+        "https://a0.muscache.com/im/pictures/2174a7fd-6c9e-404b-acfe-b731a94f934d.jpg?im_w=1200",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "1800.00",
+      "reviewCount": 34,
+      "beds": 4,
+      "bathrooms": 2,
+      "description": "Experience the tranquility of a rural farmhouse surrounded by nature and farmlands.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "5 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "18"
+    },
+    {
+      "createdAt": "2023-03-28T10:40:00.529Z",
+      "name": "Tropical Beach House",
+      "rating": 4.8,
+      "photos": [
+        "https://images.unsplash.com/photo-1482955903579-70929ba3a509?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "2200.00",
+      "reviewCount": 40,
+      "beds": 4,
+      "bathrooms": 3,
+      "description": "Relax in paradise at this tropical beach house with palm trees and crystal-clear waters.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 10:00 AM",
+            "8 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Security personnel on-site", "Safe box"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "No refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "19"
+    },
+    {
+      "createdAt": "2023-03-29T11:55:00.687Z",
+      "name": "Alpine Chalet",
+      "rating": 4.7,
+      "photos": [
+        "https://images.unsplash.com/photo-1550503736-c1a2c9033c03?auto=format&fit=crop&q=80&w=2081&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "2300.00",
+      "reviewCount": 45,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Experience alpine beauty in this cozy chalet with mountain views and skiing nearby.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 4:00 PM",
+            "Checkout before 10:00 AM",
+            "4 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Carbon monoxide detector", "First aid kit"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 14 days before check-in",
+            "50% refund for cancellations made within 14 days"
+          ]
+        }
+      ],
+      "id": "20"
+    },
+    {
+      "createdAt": "2023-03-30T12:20:00.824Z",
+      "name": "Lakeside Cottage",
+      "rating": 4.6,
+      "photos": [
+        "https://images.unsplash.com/photo-1684602766513-7d0694cd5bd0?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "1600.00",
+      "reviewCount": 32,
+      "beds": 2,
+      "bathrooms": 1,
+      "description": "Escape to a serene lakeside cottage with fishing and boating opportunities.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "3 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "21"
+    },
+    {
+      "createdAt": "2023-03-31T09:45:00.932Z",
+      "name": "Mountain Chalet",
+      "rating": 4.9,
+      "photos": [
+        "https://images.unsplash.com/photo-1517299553468-75a9dab327e4?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "2000.00",
+      "reviewCount": 36,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Discover the beauty of the mountains in this cozy chalet with hiking and skiing nearby.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 11:00 AM",
+            "4 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Carbon monoxide detector", "First aid kit"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 14 days before check-in",
+            "50% refund for cancellations made within 14 days"
+          ]
+        }
+      ],
+      "id": "22"
+    },
+    {
+      "createdAt": "2023-04-01T10:00:00.572Z",
+      "name": "Island Villa",
+      "rating": 4.8,
+      "photos": [
+        "https://images.unsplash.com/photo-1685648628650-63740d39bffc?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "2500.00",
+      "reviewCount": 40,
+      "beds": 4,
+      "bathrooms": 3,
+      "description": "Escape to your private island villa with crystal-clear waters and white sandy beaches.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 10:00 AM",
+            "6 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Security personnel on-site", "Safe box"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "No refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "23"
+    },
+    {
+      "createdAt": "2023-04-02T11:15:00.681Z",
+      "name": "Forest Cabin",
+      "rating": 4.7,
+      "photos": [
+        "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "1800.00",
+      "reviewCount": 34,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Reconnect with nature in this cozy forest cabin surrounded by tall trees and wildlife.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "4 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "24"
+    },
+    {
+      "createdAt": "2023-04-03T12:20:00.719Z",
+      "name": "Lighthouse Cottage",
+      "rating": 4.8,
+      "photos": [
+        "https://images.unsplash.com/photo-1559375730-58e86407a6eb?auto=format&fit=crop&q=80&w=2089&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "2100.00",
+      "reviewCount": 38,
+      "beds": 1,
+      "bathrooms": 1,
+      "description": "Stay in a charming lighthouse cottage with panoramic ocean views and maritime adventures.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "2 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Fire extinguisher", "Emergency exit"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "25"
+    },
+    {
+      "createdAt": "2023-04-04T10:40:00.826Z",
+      "name": "Lakefront Lodge",
+      "rating": 4.7,
+      "photos": [
+        "https://images.unsplash.com/photo-1470043201067-764120126eb4?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "1900.00",
+      "reviewCount": 36,
+      "beds": 4,
+      "bathrooms": 2,
+      "description": "Unwind by the lake in this spacious lakefront lodge with fishing and boating opportunities.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 11:00 AM",
+            "5 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "26"
+    },
+    {
+      "createdAt": "2023-04-05T11:05:00.974Z",
+      "name": "Desert Ranch House",
+      "rating": 4.7,
+      "photos": [
+        "https://images.unsplash.com/photo-1664425989384-b35690a9217d?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "1800.00",
+      "reviewCount": 34,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Experience the beauty of the desert in this charming ranch house with stargazing and desert wildlife.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "4 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "27"
+    },
+    {
+      "createdAt": "2023-04-06T10:20:00.621Z",
+      "name": "Riverside Retreat",
+      "rating": 4.6,
+      "photos": [
+        "https://images.unsplash.com/photo-1519998823760-5f7b0549b378?auto=format&fit=crop&q=80&w=2144&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "1700.00",
+      "reviewCount": 32,
+      "beds": 2,
+      "bathrooms": 1,
+      "description": "Relax by the riverside in this peaceful retreat with fishing and nature walks.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 11:00 AM",
+            "3 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "28"
+    },
+    {
+      "createdAt": "2023-04-07T09:40:00.412Z",
+      "name": "Safari Lodge",
+      "rating": 4.8,
+      "photos": [
+        "https://images.unsplash.com/photo-1694771170091-849084a0d677?auto=format&fit=crop&q=80&w=2071&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "2200.00",
+      "reviewCount": 40,
+      "beds": 4,
+      "bathrooms": 2,
+      "description": "Embark on a safari adventure in this comfortable lodge with wildlife viewing opportunities.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 10:00 AM",
+            "6 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Security personnel on-site", "Safe box"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "No refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "29"
+    },
+    {
+      "createdAt": "2023-04-08T10:55:00.587Z",
+      "name": "Mountain Cabin",
+      "rating": 4.7,
+      "photos": [
+        "https://images.unsplash.com/photo-1506974210756-8e1b8985d348?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "1800.00",
+      "reviewCount": 36,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Experience the serenity of the mountains in this cozy cabin with hiking and wildlife encounters.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "4 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "30"
+    },
+    {
+      "createdAt": "2023-04-09T11:20:00.724Z",
+      "name": "Beachfront Villa",
+      "rating": 4.9,
+      "photos": [
+        "https://images.unsplash.com/photo-1511840831832-3efd661c1d0f?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "2500.00",
+      "reviewCount": 45,
+      "beds": 4,
+      "bathrooms": 3,
+      "description": "Enjoy a luxurious beachfront villa with stunning ocean views and private access to the beach.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 10:00 AM",
+            "6 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Security personnel on-site", "Safe box"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "No refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "31"
+    },
+    {
+      "createdAt": "2023-04-10T12:35:00.856Z",
+      "name": "Cozy Cottage",
+      "rating": 4.7,
+      "photos": [
+        "https://images.unsplash.com/photo-1579297206620-c410c4af42e4?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1549294413-26f195200c16?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1439130490301-25e322d88054?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "price": "1700.00",
+      "reviewCount": 32,
+      "beds": 2,
+      "bathrooms": 1,
+      "description": "Experience coziness in this charming cottage with a fireplace and forest views.",
+      "thingsToKnow": [
+        {
+          "House rules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "2 guests maximum"
+          ]
+        },
+        {
+          "Safety & property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "Cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "32"
+    }
+  ]
+}
